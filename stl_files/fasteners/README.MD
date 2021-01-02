@@ -8,10 +8,10 @@ Bolts can be broken down into two main categories:
 </ol><br>
 Within each main category of bolt, four sub-types exist:
 <ol>
-  <li><a href=#regular></a></li>
-  <li><a href=#nut stop></a></li>
-  <li><a href=#slotted></a></li>
-  <li><a href=#slotted nut stop></a></li>
+  <li><a href=#regular>regular</a></li>
+  <li><a href=#nut-stop>nut stop</a></li>
+  <li><a href=#slotted>slotted</a></li>
+  <li><a href=#slotted-nut-stop>slotted nut stop</a></li>
 </ol><br>
 
 <b><h3>regular</h3></b><br>
