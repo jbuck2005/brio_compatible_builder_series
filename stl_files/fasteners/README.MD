@@ -1,6 +1,7 @@
 <b>Fasteners</b><br>
 <hr>
 Fasteners are bolts, nuts and washers that are dimensionally compatible with the Brio builder toy set.<br>
+<br>
 Bolts can be broken down into two main categories:
 <ol>
   <li>single headed</li>
