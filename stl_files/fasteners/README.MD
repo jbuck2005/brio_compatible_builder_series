@@ -1,6 +1,6 @@
 <h1><b>Fasteners</b></h1><br>
 <hr>
-Fasteners are bolts, nuts and washers that are dimensionally compatible with the Brio builder toy set.<br>
+Fasteners are <a href=#Bolts>bolts</a>, <a href=#Nuts>nuts</a> and <a href=>washers</a> that are dimensionally compatible with the Brio builder toy set.<br>
 <br>
 <h2>Bolts</h2>
 Bolts can be broken down into two main categories:
