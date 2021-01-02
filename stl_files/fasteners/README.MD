@@ -1,6 +1,6 @@
 <h1><b>Fasteners</b></h1><br>
 <hr>
-Fasteners are <a href=#Bolts>bolts</a>, <a href=#Nuts>nuts</a> and <a href=>washers</a> that are dimensionally compatible with the Brio builder toy set.<br>
+Fasteners are <a href=#Bolts>bolts</a>, <a href=#Nuts>nuts</a> and <a href=#Washers>washers</a> that are dimensionally compatible with the Brio builder toy set.<br>
 <br>
 <h2>Bolts</h2>
 Bolts can be broken down into two main categories:
@@ -37,3 +37,5 @@ Naming convention: Any number following an an 'n-dash' (\-) indicates the nut st
 <br><code>slotted nut stop bolt length = regular bolt length + beam thickness + (nut stop length x nut stop multiplier)</code>
 <h2>Nuts</h2><br>
 Nuts are standard clamping hardware that come in a variety of thicknesses.
+<h2>Washers</h2><br>
+Washers are available in incremental thicknesses with standardized inner and outer diameters.
