@@ -25,7 +25,7 @@ nut in thicknesses increments of <b>8.5mm</b> (17, 25.5, 34mm) - standard kit si
 <li>standard washer</li>
 </ul>
 <br>
-<b>Beams</b><br>
+<b><a href="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/beams/">Beams</a></b><br>
 beams come in the following hole counts: 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 1, 14, 16, 18, 20<br>
 <b>slotted beams start at 4 hole equivalents</b><br>
 <code>beam length = (# holes - 1) x 16mm + 30mm</code><br>
@@ -35,20 +35,20 @@ eg. 4 holes = 78mm, 6 holes = 110mm<br>
 <li>slotted beams with holes at the ends and a slot spaced 16mm from each hole, running the length</li>
 <br>
 </ul>
-<b>Wheels and Pulleys</b><br>
+<b><a href="https://github.com/jbuck2005/brio_compatible_builder_series/tree/master/stl_files/gears">Gears</a></b><br>
+<ul>
+<li>single cross-driven gear tooth count: 10, 15, 20, 25</li>
+<li>single idler gear tooth count: 10, 15, 20, 25</li>
+<li>double cross-driven gear tooth count: 10/10, 10/15, 10/20, 10/25, 15/20, 15/25, 20/25</li>
+<li>double idler gear tooth count: 10/10, 10/15, 10/20, 10/25, 15/20, 15/25, 20/25</li>
+</ul>
+<b><a href="https://github.com/jbuck2005/brio_compatible_builder_series/tree/master/stl_files/wheels_and_pulleys">Wheels and Pulleys</a></b><br>
 the kit drive wheel diameter is 46mm<br>
 <ul>
 <li>drive wheel single post 46mm</li>
 <li>drive wheel double post 46mm</li>
 <li>drive wheel single post 46mm (with nut-stop)</li>
 <li>v pulleys diameters: 20, 30, 40, _<b>46</b>_, 50, 60, 70mm</li>
-</ul>
-<b>Gears</b><br>
-<ul>
-<li>single cross-driven gear tooth count: 10, 15, 20, 25</li>
-<li>single idler gear tooth count: 10, 15, 20, 25</li>
-<li>double cross-driven gear tooth count: 10/10, 10/15, 10/20, 10/25, 15/20, 15/25, 20/25</li>
-<li>double idler gear tooth count: 10/10, 10/15, 10/20, 10/25, 15/20, 15/25, 20/25</li>
 </ul>
 <br>
 The design was done in FreeCAD and as mentioned it is fully parametric. I have included the FreeCAD file so that you can modify the design to your heart's content.<br>
