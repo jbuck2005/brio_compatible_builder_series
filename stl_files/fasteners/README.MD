@@ -6,6 +6,7 @@ Bolts can be broken down into two main categories:
   <li>single headed - hexagonal head with a single threaded shaft</li>
   <li>double headed - two threaded shafts separated by hexagonal shaped fixed washer</li>
 </ol><br>
+Future bolt forms may include threaded bodies at various angular intersections. Example, two threaded shafts at a 90° angle.<br>
 Within each main category of bolt, four sub-types exist:
 <ol>
   <li><a href=#regular>regular</a></li>
