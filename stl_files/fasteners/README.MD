@@ -3,8 +3,8 @@ Fasteners are <a href=#Bolts>bolts</a>, <a href=#Nuts>nuts</a> and <a href=#Wash
 <h2>Bolts</h2>
 Bolts can be broken down into two main categories:
 <ol>
-  <li>single headed</li>
-  <li>double headed</li>
+  <li>single headed - hexagonal head with a single threaded shaft</li>
+  <li>double headed - two threaded shafts separated by hexagonal shaped fixed washer</li>
 </ol><br>
 Within each main category of bolt, four sub-types exist:
 <ol>
