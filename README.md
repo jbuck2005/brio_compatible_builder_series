@@ -27,8 +27,8 @@ nut in thicknesses increments of **8.5mm** (17, 25.5, 34mm) - standard kit size 
 **Beams**<br>
 beams come in the following hole counts: 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 1, 14, 16, 18, 20<br>
 **slotted beams start at 4 hole equivalents**<br>
-over all lengths are calculated as: {( # holes - 1 ) x 16mm} + 30mm<br>
-[eg. 4 holes = 78mm, 6 holes = 110mm]<br>
+over all lengths are calculated as: ( # holes - 1 ) x 16mm + 30mm<br>
+eg. 4 holes = 78mm, 6 holes = 110mm<br>
 <ul>
 <li>normal beams have holes every 16mm</li>
 <li>slotted beams with holes at the ends and a slot spaced 16mm from each hole, running the length</li>
