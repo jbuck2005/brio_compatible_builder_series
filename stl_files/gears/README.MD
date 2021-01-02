@@ -20,5 +20,5 @@ Single gears are single thickness gears that offer different gear ratios to be d
 <b><h3>double</h3></b><br><img src="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/gears/gear_double_idler_10_25.png">
 Double gears are stacked gears that offer different gear ratios to be developed.<br>
 <br>Naming convention: double gears are named for their central profile type first and then their tooth counts, starting with the smaller count first. If you needed an idler gear (hole at the center) with two different tooth counts, say 10 and 25, you would select the double_idler_10_25 gear. If perhaps you wanted a cross-axle profile at the center and a tooth count of 15 and 20, you would select the double_cross_15_20 gear. The image above would be double_idler_10_25 gear<br>
-<br><code>nut stop bolt length = regular bolt length + <a href="<a href="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/brio_builder_set-dimensions.csv">(nut stop length x nut stop multiplier)</a></code><br>
-<br>
+<br><code>gear diameter = (# teeth) x <a href="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/brio_builder_set-dimensions.csv">(gear modules)</a></code><br>
+<code>note: gear modules has been set to 3.15 to balance strength & finger pinch potential</code><br>
