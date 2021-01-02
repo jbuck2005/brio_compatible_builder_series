@@ -1,0 +1,23 @@
+printer tolerance	0.2	pulley diameter	46	bolt  length multiplier	3	double bolt length multiplier L	1	gear size multiplier (upper)	2
+normal beam hole count	4	wheel diameter		nut thickness multiplier	1	double bolt length multiplier R	2	gear size multiplier (lower)	5	(use for single)
+slotted beam hole count	6			nut stop multiplier	2	double nut stop multiplier L	1
+						double nut stop multiplier R	2
+
+normal beam length	78	slotted beam length	110	total bolt length	19.25	total double bolt length	19.5	teeth per diameter ratio	5
+hole diameter	10	drive wheel diameter	46.1	thread pitch (metric)	2.4	nut thickness	8.5	total gear teeth 1	10
+hole spacing	16	drive wheel thickness max	5	thread nose radius	0.6	bolt length regular 	10.8	total gear teeth 2	25
+beam thickness	5	drive wheel thickness min	5	bolt thread stop length	1.25	bolt length nut stop	12.05	gear modules	3.15
+beam width	30	drive wheel post length	10.2	bolt diameter	9.2	bolt length slot	15.8	gear thickness	4.5
+beam length per hole	31.3571	dirve wheel post width	9.15	bolt flats width	16.8	bolt length slot nut stop	17.05		
+effective normal holes	3	drive wheel post height	8	bolt thread inner diameter	7	single bolt length	15	wheel v outer diameter	44.8
+effective slotted holes	5	drive wheel post ring height	4	bolt head thickness	8.45	double bolt length L	5	wheel v inner diameter	3.75
+beam fillet radius	1	drive wheel post right cut height	1.25	bolt head hole diameter	5.8	double bolt length R	10	wheel thickness posts	9.12
+		drive wheel post notch width	2	bolt head slot width	4			wheel thickness body	7.62
+cross axle width	9.5			bolt head inner slot length	9.2			wheel thickness web	1.32
+cross axle wall width	3.4	pulley v angle	50	bolt head inner slot depth	6.8	nut flats width	16.8
+cross axle fillet radius	0.4	pulley thickness	6	bolt head outer slot depth	3.2	nut inner diameter	8		
+				bolt head radius	0.6	washer thickness	4.5		
+slotted notch width	0.8			bolt end chamfer angle	45	washer diameter	21.9		
+slotted notch height	1								
+slot width / diameter	12								
+beams Y axis	220	drive wheel Y axis	100	fasteners Y axis	150	gear Y axis	178.54		
