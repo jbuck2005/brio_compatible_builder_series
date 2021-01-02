@@ -11,9 +11,9 @@ As this design is parametric, the lengths of the beams can be very quickly tailo
 <br>
 Included STLs for those who are not yet familiar with FreeCAD include:<br>
 <br>
-**Fasteners**<br>
+<b>Fasteners</b><br>
 bolt length increments of: 15.5mm (8.5mm for nut, 2.3mm for bolt chamfer) plus 5mm for every beam thickness multiplier<br>
-nut thickness + (bolt diameter / 4) + (bolt length multiplier) * (beam thickness)<br>
+nut thickness + (bolt diameter / 4) + (bolt length multiplier) x (beam thickness)<br>
 nut in thicknesses increments of **8.5mm** (17, 25.5, 34mm) - standard kit size is 8.5mm<br>
 <ul>
 <li>bolt lengths: 13.5, 27, 40.5, 54mm</li>
@@ -24,25 +24,25 @@ nut in thicknesses increments of **8.5mm** (17, 25.5, 34mm) - standard kit size 
 <li>standard washer</li>
 </ul>
 <br>
-**Beams**<br>
+<b>Beams</b><br>
 beams come in the following hole counts: 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 1, 14, 16, 18, 20<br>
 **slotted beams start at 4 hole equivalents**<br>
-over all lengths are calculated as: ( # holes - 1 ) x 16mm + 30mm<br>
+over all lengths are calculated as: (# holes - 1) x 16mm + 30mm<br>
 eg. 4 holes = 78mm, 6 holes = 110mm<br>
 <ul>
 <li>normal beams have holes every 16mm</li>
 <li>slotted beams with holes at the ends and a slot spaced 16mm from each hole, running the length</li>
 <br>
 </ul>
-**Wheels and Pulleys**<br>
+<b>Wheels and Pulleys</b><br>
 the kit drive wheel diameter is 46mm<br>
 <ul>
 <li>drive wheel single post 46mm</li>
 <li>drive wheel double post 46mm</li>
 <li>drive wheel single post 46mm (with nut-stop)</li>
-<li>v pulleys diameters: 20, 30, 40, _46_, 50, 60, 70mm</li>
+<li>v pulleys diameters: 20, 30, 40, _<b>46</b>_, 50, 60, 70mm</li>
 </ul>
-**Gears**<br>
+<b>Gears</b><br>
 <ul>
 <li>single cross-driven gear tooth count: 10, 15, 20, 25</li>
 <li>single idler gear tooth count: 10, 15, 20, 25</li>
