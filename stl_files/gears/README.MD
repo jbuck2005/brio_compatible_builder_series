@@ -14,7 +14,7 @@ Within the main categories, gears can be futher sub-dividied into the following:
 <b><h3>single</h3></b><br><img src="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/gears/gear_single_cross_25.png">
 Single gears are single thickness gears that offer different gear ratios to be developed.<br>
 <br>Naming convention: single thickness gears are named for their center profile type (idler vs cross axle) and then their tooth count (in multiples of 5). The image above would be single_cross_25 gear<br>
-<br><code>diameter = (# teeth) x <a href="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/brio_builder_set-dimensions.csv">(gear modules)</a></code><b> gear modules has been set to 3.15 to balance strength & finger pinch potential</b><br>
+<br><code>gear diameter = (# teeth) x <a href="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/brio_builder_set-dimensions.csv">(gear modules)</a> note: <b> gear modules has been set to 3.15 to balance strength & finger pinch potential</b></code><br>
 <br>
 <b><h3>double</h3></b><br><img src="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/gears/gear_double_idler_10_25.png">
 Double gears are stacked gears that offer different gear ratios to be developed.<br>
