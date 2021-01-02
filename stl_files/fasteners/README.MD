@@ -17,7 +17,7 @@ Within each main category of bolt, four sub-types exist:
 
 <b>regular</b><br>
 Regular bolts are bolts which lack any additional features. The length of a regular bolt is designed to clamp one beam thickness equivalent for every length multiplier.<br>
-Naming convention: if you wish to clamp one beam with a standard bolt, you would use a regular_1 bolt. If you need to clamp two beams,  you would use a regular_2 bolt.</p><br>
+Naming convention: if you wish to clamp one beam with a standard bolt, you would use a regular_1 bolt. If you need to clamp two beams,  you would use a regular_2 bolt.<br>
 <b><code>regular bolt length = bolt head thickness + nut thickness + (bolt diameter / 4) + (bolt length multiplier x beam thickness)</code></b><br>
 <br>
 <b>nut stop</b><br>
@@ -27,6 +27,7 @@ Naming convention: if you need an axle for a single beam, you would use a nut_st
 <br>
 <b>slotted</b><br>
 Slotted bolts have an oval neck profile immediately below the bolt head that allows the bolt to be retained in a slotted beam. These bolts can be used to clamp an object anywhere along the slot length.<br>
+Naming convention: if you wish to clamp one beam with a slotted bolt, you would use a slotted_1 bolt. If you need to clamp two beams,  you would use a slotted bolt.<br>
 <code>slotted bolt length = regular bolt length + beam thickness</code><br>
 <br>
 <b>slotted nut stop</b><br>
