@@ -1,13 +1,12 @@
 <h1><b>Fasteners</b></h1>
 Fasteners are <a href=#Bolts>bolts</a>, <a href=#Nuts>nuts</a> and <a href=#Washers>washers</a> that are dimensionally compatible with the Brio builder toy set.<br>
 <h2>Bolts</h2>
-Bolts can be broken down into two main categories:
+Bolts can be broken down into main categories:
 <ol>
   <li>single headed - hexagonal head with a single threaded shaft</li>
   <li>double headed - two threaded shafts separated by hexagonal shaped fixed washer</li>
+  <li>angled - future feature - threaded shafts at discrete angular interections (e.g. two threaded shafts at a 90° angle)</li>
 </ol><br>
-Future bolt forms may include threaded bodies at various angular intersections. Example, two threaded shafts at a 90° angle.<br>
-Within each main category of bolt, four sub-types exist:
 <ol>
   <li><a href=#regular>regular</a></li>
   <li><a href=#nut-stop>nut stop</a></li>
