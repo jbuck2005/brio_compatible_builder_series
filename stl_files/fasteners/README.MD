@@ -17,10 +17,12 @@ Within each main category of bolt, four sub-types exist:
 
 <b>regular</b><br>
 <br>
-<code><b>regular bolt length</b> = bolt head thickness + nut thickness + (bolt diameter / 4) + (bolt length multiplier x beam thickness)</code>
+<b><code>regular bolt length = bolt head thickness + nut thickness + (bolt diameter / 4) + (bolt length multiplier x beam thickness)</code></b>
+
 <b>nut stop</b><br>
 <br>
 <code>nut stop bolt length = regular bolt length + (nut stop length x nut stop multiplier)</code>
+
 <b>slotted</b><br>
 <br>
 <code>slotted bolt length = regular bolt length + beam thickness</code>
