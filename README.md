@@ -26,9 +26,9 @@ nut in thicknesses increments of **8.5mm** (17, 25.5, 34mm) - standard kit size 
 <br>
 **Beams**<br>
 beams come in the following hole counts: 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 1, 14, 16, 18, 20<br>
-*slotted beams start at 4 hole equivalents*<br>
-over all lengths are calculated as: ( # holes - 1 ) * 16mm + 30mm<br>
-{ eg. 4 holes = 78mm, 6 holes = 110mm }<br>
+**slotted beams start at 4 hole equivalents**<br>
+over all lengths are calculated as: {( # holes - 1 ) x 16mm} + 30mm<br>
+[eg. 4 holes = 78mm, 6 holes = 110mm]<br>
 <ul>
 <li>normal beams have holes every 16mm</li>
 <li>slotted beams with holes at the ends and a slot spaced 16mm from each hole, running the length</li>
@@ -40,7 +40,7 @@ the kit drive wheel diameter is 46mm<br>
 <li>drive wheel single post 46mm</li>
 <li>drive wheel double post 46mm</li>
 <li>drive wheel single post 46mm (with nut-stop)</li>
-<li>v pulleys diameters: 20, 30, 40, **46**, 50, 60, 70mm</li>
+<li>v pulleys diameters: 20, 30, 40, _46_, 50, 60, 70mm</li>
 </ul>
 **Gears**<br>
 <ul>
