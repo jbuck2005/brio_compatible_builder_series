@@ -1,3 +1,4 @@
 # Temporary files
 *.FCStd[0-9]
 *.FCStd[0-9][0-9]
+debug.log*
