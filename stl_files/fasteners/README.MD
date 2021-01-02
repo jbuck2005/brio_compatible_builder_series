@@ -1,7 +1,8 @@
-<b>Fasteners</b><br>
+<h1><b>Fasteners</b></h1><br>
 <hr>
 Fasteners are bolts, nuts and washers that are dimensionally compatible with the Brio builder toy set.<br>
 <br>
+<h2>Bolts</h2>
 Bolts can be broken down into two main categories:
 <ol>
   <li>single headed</li>
@@ -34,3 +35,5 @@ Naming convention: if you wish to clamp one beam with a slotted bolt, you would 
 Slotted nut stop bolts have an oval neck profile immediately below the bolt head as well as a nut stop profile, allowing the slotted bolt to slide along a beam slot while acting as an axle.<br>
 Naming convention: Any number following an an 'n-dash' (\-) indicates the nut stop length. For example, say you needed a bolt which was able to accomodate 5 beam thicknesses, but wished to have the nut stop serve as an axle for 2 beams, you would use a nut_stop_5-2 bolt<br>
 <br><code>slotted nut stop bolt length = regular bolt length + beam thickness + (nut stop length x nut stop multiplier)</code>
+<h2>Nuts</h2><br>
+Nuts are standard clamping hardware that come in a variety of thicknesses.
