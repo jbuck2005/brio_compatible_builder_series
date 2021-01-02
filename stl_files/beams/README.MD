@@ -2,8 +2,8 @@
 Beams are structural building blocks that are dimensionally compatible with the Brio builder toy set.<br>
 Beams can be broken down into the following categories:
 <ol>
-  <li>normal</li>
-  <li>slotted</li>
+  <li><a href=#normal>normal</a></li>
+  <li><a href=#slotted>slotted</a></li>
 </ol><br>
 <img src="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/beams/beams.png">
 <br>
