@@ -1,5 +1,5 @@
 <center><img src="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/base_shapes.png"></center><br>
-# brio_compatible_builder_series<br>
+<h1>brio_compatible_builder_series</h1><br>
 Download the FreeCAD project here: <a href="https://github.com/jbuck2005/brio_compatible_builder_series/blob/main/brio_builder_set.FCStd">Brio builder motor set (compatible) expansion kit</a><br>
 <br>
 STL files are found in the <a href="https://github.com/jbuck2005/brio_compatible_builder_series/tree/main/stl_files">stl_files directory</a><br>
@@ -14,7 +14,10 @@ As this design is parametric, the lengths of the beams can be very quickly tailo
 <br>
 Included are <a href="https://github.com/jbuck2005/brio_compatible_builder_series/tree/master/stl_files">STL files</a> for those who are not yet familiar with <a href="https://github.com/FreeCAD/FreeCAD/blob/master/README.md">FreeCAD</a> include:<br>
 <br>
-<b><a href="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/fasteners/">Fasteners</a></b><br><img src="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/fasteners/bolt_nut_stop_3-2.png">
+<h2>
+<b>
+<a href="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/fasteners/">Fasteners</a></b><br><img src="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/fasteners/bolt_nut_stop_3-2.png">
+</h2>
 bolt length increments of: 15.5mm (8.5mm for nut, 2.3mm for bolt chamfer) plus 5mm for every beam thickness multiplier<br>
 nut in thicknesses increments of <b>8.5mm</b> (17, 25.5, 34mm) - standard kit size is 8.5mm<br>
 <code>bolt length = bolt head thickness + nut thickness + (bolt diameter / 4) + (bolt length multiplier x beam thickness)</code><br>
@@ -27,7 +30,9 @@ nut in thicknesses increments of <b>8.5mm</b> (17, 25.5, 34mm) - standard kit si
 <li>standard washer</li>
 </ul>
 <br>
+<h2>
 <b><a href="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/beams/">Beams</a></b><br><img src="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/beams/normal_4.png">
+</h2>
 beams come in the following hole counts: 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 1, 14, 16, 18, 20<br>
 <b>slotted beams start at 4 hole equivalents</b><br>
 <code>beam length = (# holes - 1) x 16mm + 30mm</code><br>
@@ -37,14 +42,18 @@ eg. 4 holes = 78mm, 6 holes = 110mm<br>
 <li>slotted beams with holes at the ends and a slot spaced 16mm from each hole, running the length</li>
 <br>
 </ul>
+<h2>
 <b><a href="https://github.com/jbuck2005/brio_compatible_builder_series/tree/master/stl_files/gears">Gears</a></b><br><img src="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/gears/gears.png">
+</h2>
 <ul>
 <li>single cross-driven gear tooth count: 10, 15, 20, 25</li>
 <li>single idler gear tooth count: 10, 15, 20, 25</li>
 <li>double cross-driven gear tooth count: 10/10, 10/15, 10/20, 10/25, 15/20, 15/25, 20/25</li>
 <li>double idler gear tooth count: 10/10, 10/15, 10/20, 10/25, 15/20, 15/25, 20/25</li>
 </ul>
+<h2>
 <b><a href="https://github.com/jbuck2005/brio_compatible_builder_series/tree/master/stl_files/wheels_and_pulleys">Wheels and Pulleys</a></b><br><img src="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/wheels_and_pulleys/wheels_and_pulleys.png">
+</h2>  
 the kit drive wheel diameter is 46mm<br>
 <ul>
 <li>drive wheel single post 46mm</li>
