@@ -1,5 +1,6 @@
 # brio_compatible_builder_series<br>
-Brio builder motor set (compatible) expansion kit<br>
+Download the FreeCAD project here: <a href="https://github.com/jbuck2005/brio_compatible_builder_series/blob/main/brio_builder_set.FCStd">Brio builder motor set (compatible) expansion kit</a><br>
+STL files are found in the <a href="https://github.com/jbuck2005/brio_compatible_builder_series/tree/main/stl_files">stl_files directory</a><br>
 <br>
 **Revised & streamlined design for 2021**<br>
 <br>
