@@ -13,8 +13,8 @@ Included STLs for those who are not yet familiar with FreeCAD include:<br>
 <br>
 <b>Fasteners</b><br>
 bolt length increments of: 15.5mm (8.5mm for nut, 2.3mm for bolt chamfer) plus 5mm for every beam thickness multiplier<br>
-nut thickness + (bolt diameter / 4) + (bolt length multiplier) x (beam thickness)<br>
-nut in thicknesses increments of **8.5mm** (17, 25.5, 34mm) - standard kit size is 8.5mm<br>
+<code>bolt length = bolt head thickness + nut thickness + (bolt diameter / 4) + (bolt length multiplier x beam thickness)</code><br>
+nut in thicknesses increments of <b>8.5mm</b> (17, 25.5, 34mm) - standard kit size is 8.5mm<br>
 <ul>
 <li>bolt lengths: 13.5, 27, 40.5, 54mm</li>
 <li>standard bolts</li>
@@ -54,4 +54,4 @@ The design was done in FreeCAD and as mentioned it is fully parametric. I have i
 <br>
 I am open to any suggestions as to how to improve the design work-flow in FreeCAD.<br>
 <br>
-**This design will be the foundation of a completely open source meccano type set. I am seeking collaborators for this project; if there is enough interest, I will draft up a set of "best practices" and establish some engineering criteria (i.e. standardized dimensions, etc).**<br>
+<b>This design will be the foundation of a completely open source meccano type set. I am seeking collaborators for this project; if there is enough interest, I will draft up a set of "best practices" and establish some engineering criteria (i.e. standardized dimensions, etc).</b><br>
