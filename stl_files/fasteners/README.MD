@@ -12,8 +12,7 @@ Within each main category of bolt, four sub-types exist:
   <li><a href=#nut-stop>nut stop</a></li>
   <li><a href=#slotted>slotted</a></li>
   <li><a href=#slotted-nut-stop>slotted nut stop</a></li>
-</ol><br>
-
+</ol>
 <b><h3>regular</h3></b><br>
 Regular bolts are bolts which lack any additional features. The length of a regular bolt is designed to clamp one beam thickness equivalent for every length multiplier.<br>
 Naming convention: if you wish to clamp one beam with a standard bolt, you would use a regular_1 bolt. If you need to clamp two beams,  you would use a regular_2 bolt.<br>
@@ -33,7 +32,7 @@ Naming convention: if you wish to clamp one beam with a slotted bolt, you would 
 Slotted nut stop bolts have an oval neck profile immediately below the bolt head as well as a nut stop profile, allowing the slotted bolt to slide along a beam slot while acting as an axle.<br>
 Naming convention: Any number following an an 'n-dash' (\-) indicates the nut stop length. For example, say you needed a bolt which was able to accomodate 5 beam thicknesses, but wished to have the nut stop serve as an axle for 2 beams, you would use a nut_stop_5-2 bolt<br>
 <br><code>slotted nut stop bolt length = regular bolt length + beam thickness + (nut stop length x nut stop multiplier)</code>
-<h2>Nuts</h2><br>
+<h2>Nuts</h2>
 Nuts are standard clamping hardware that come in a variety of thicknesses.
-<h2>Washers</h2><br>
+<h2>Washers</h2>
 Washers are available in incremental thicknesses with standardized inner and outer diameters.
