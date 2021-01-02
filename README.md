@@ -13,8 +13,8 @@ Included STLs for those who are not yet familiar with FreeCAD include:<br>
 <br>
 <b>Fasteners</b><br>
 bolt length increments of: 15.5mm (8.5mm for nut, 2.3mm for bolt chamfer) plus 5mm for every beam thickness multiplier<br>
-<code>bolt length = bolt head thickness + nut thickness + (bolt diameter / 4) + (bolt length multiplier x beam thickness)</code><br>
 nut in thicknesses increments of <b>8.5mm</b> (17, 25.5, 34mm) - standard kit size is 8.5mm<br>
+<code>bolt length = bolt head thickness + nut thickness + (bolt diameter / 4) + (bolt length multiplier x beam thickness)</code><br>
 <ul>
 <li>bolt lengths: 13.5, 27, 40.5, 54mm</li>
 <li>standard bolts</li>
@@ -26,8 +26,8 @@ nut in thicknesses increments of <b>8.5mm</b> (17, 25.5, 34mm) - standard kit si
 <br>
 <b>Beams</b><br>
 beams come in the following hole counts: 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 1, 14, 16, 18, 20<br>
-**slotted beams start at 4 hole equivalents**<br>
-over all lengths are calculated as: (# holes - 1) x 16mm + 30mm<br>
+<b>slotted beams start at 4 hole equivalents</b><br>
+<code>beam length = (# holes - 1) x 16mm + 30mm</code><br>
 eg. 4 holes = 78mm, 6 holes = 110mm<br>
 <ul>
 <li>normal beams have holes every 16mm</li>
