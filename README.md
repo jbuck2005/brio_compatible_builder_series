@@ -44,7 +44,7 @@ eg. 4 holes = 78mm, 6 holes = 110mm<br>
 <li>double cross-driven gear tooth count: 10/10, 10/15, 10/20, 10/25, 15/20, 15/25, 20/25</li>
 <li>double idler gear tooth count: 10/10, 10/15, 10/20, 10/25, 15/20, 15/25, 20/25</li>
 </ul>
-<b><a href="https://github.com/jbuck2005/brio_compatible_builder_series/tree/master/stl_files/wheels_and_pulleys">Wheels and Pulleys</a></b><br>
+<b><a href="https://github.com/jbuck2005/brio_compatible_builder_series/tree/master/stl_files/wheels_and_pulleys">Wheels and Pulleys</a></b><br><img src="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/wheels_and_pulleys/wheels_and_pulleys.png">
 the kit drive wheel diameter is 46mm<br>
 <ul>
 <li>drive wheel single post 46mm</li>
