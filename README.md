@@ -1,3 +1,4 @@
+<center><img src="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/base_shapes.png"></center><br>
 # brio_compatible_builder_series<br>
 Download the FreeCAD project here: <a href="https://github.com/jbuck2005/brio_compatible_builder_series/blob/main/brio_builder_set.FCStd">Brio builder motor set (compatible) expansion kit</a><br>
 <br>
