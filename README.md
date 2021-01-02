@@ -12,7 +12,7 @@ As this design is parametric, the lengths of the beams can be very quickly tailo
 <br>
 Included STLs for those who are not yet familiar with FreeCAD include:<br>
 <br>
-<b>Fasteners</b><br>
+<b><a href="https://github.com/jbuck2005/brio_compatible_builder_series/blob/master/stl_files/fasteners/README.MD">Fasteners</a></b><br>
 bolt length increments of: 15.5mm (8.5mm for nut, 2.3mm for bolt chamfer) plus 5mm for every beam thickness multiplier<br>
 nut in thicknesses increments of <b>8.5mm</b> (17, 25.5, 34mm) - standard kit size is 8.5mm<br>
 <code>bolt length = bolt head thickness + nut thickness + (bolt diameter / 4) + (bolt length multiplier x beam thickness)</code><br>
